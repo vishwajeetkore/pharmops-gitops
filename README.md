@@ -1,4 +1,4 @@
-# pharmops-gitops
+# pharmops-gitops.
 
 GitOps configuration repository for the PharmOps platform. ArgoCD watches this repo and syncs everything on the cluster automatically.
 

@@ -53,7 +53,7 @@ readinessProbe:
 
 configmap:
   SPRING_PROFILES_ACTIVE: dev
-  DB_HOST: pharma-dev-postgres.c2vwmwkaolwz.us-east-1.rds.amazonaws.com:5432
+  DB_HOST: pharma-dev-postgres.c2vwmwkaolwz.us-east-1.rds.amazonaws.com
   LOG_LEVEL: DEBUG
   SERVER_PORT: "8081"
   TOKEN_EXPIRATION_MS: "86400000"
